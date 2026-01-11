@@ -1,0 +1,11 @@
+{
+  "name": "com.na9asaki.outline",
+  "version": "1.0.0",
+  "displayName": "Outline",
+  "description": "High quality outline effect based on Unity RenderGraph.",
+  "unity": "6.0",
+  "author": {
+    "name": "Na9asaki",
+    "email": "ondrey.kin13@gmail.com"
+  }
+}
